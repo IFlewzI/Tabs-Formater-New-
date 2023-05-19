@@ -1,0 +1,7 @@
+C:\Users\Информатик\source\repos\Tabs Formater (New)\Tabs Formater (New)\bin\Debug\Tabs Formater (New).exe.config
+C:\Users\Информатик\source\repos\Tabs Formater (New)\Tabs Formater (New)\bin\Debug\Tabs Formater (New).exe
+C:\Users\Информатик\source\repos\Tabs Formater (New)\Tabs Formater (New)\bin\Debug\Tabs Formater (New).pdb
+C:\Users\Информатик\source\repos\Tabs Formater (New)\Tabs Formater (New)\obj\Debug\Tabs Formater (New).csproj.AssemblyReference.cache
+C:\Users\Информатик\source\repos\Tabs Formater (New)\Tabs Formater (New)\obj\Debug\Tabs Formater (New).csproj.CoreCompileInputs.cache
+C:\Users\Информатик\source\repos\Tabs Formater (New)\Tabs Formater (New)\obj\Debug\Tabs Formater (New).exe
+C:\Users\Информатик\source\repos\Tabs Formater (New)\Tabs Formater (New)\obj\Debug\Tabs Formater (New).pdb
